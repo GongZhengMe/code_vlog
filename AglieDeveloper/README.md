@@ -224,3 +224,5 @@ leader和研发同事们都给出了自己的理解与解决方案，令我受�
 > 《高效程序员的45个习惯——敏捷开发修炼之道》
 >
 > [敏捷开发入门教程-阮一峰](http://www.ruanyifeng.com/blog/2019/03/agile-development.html)
+>
+> [github地址](https://github.com/GongZhengMe/code_vlog/tree/master/AglieDeveloper)
